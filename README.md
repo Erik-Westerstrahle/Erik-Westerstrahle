@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me
+I am a Computer Engineering student interested in Computer Vision, Artificial Intelligence, Graphics Rendering, 3D Modelling.
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c#,c,java,mysql)](https://skillicons.dev)
+
 
 <!--
 **Erik-Westerstrahle/Erik-Westerstrahle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
