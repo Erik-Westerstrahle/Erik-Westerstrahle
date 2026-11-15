@@ -2,7 +2,8 @@
 I am a Computer Engineering student interested in Computer Vision, Artificial Intelligence, Graphics Rendering, 3D Modelling.
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c#,c,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,c,java,mysql)](https://skillicons.dev)
+
 
 
 <!--
