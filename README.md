@@ -6,6 +6,7 @@ My experience includes:
 - Object detection using YOLOv8, Detectron2, and MMDetection.
 - Machine Learning.
 - Game development using Unity and Unreal Engine.
+- GPU programming with CUDA
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cs,c,java,mysql)](https://skillicons.dev)
