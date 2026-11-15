@@ -3,6 +3,7 @@ I am a Computer Engineering student interested in Computer Vision, Artificial In
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cs,c,java,mysql)](https://skillicons.dev)
+**Languages:** Python, C#, C, Java, SQL
 
 ## Tools
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,windows,blender,unity,unreal,pytorch)](https://skillicons.dev)
