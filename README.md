@@ -5,7 +5,7 @@ I am a Computer Engineering student interested in Computer Vision, Artificial In
 [![My Skills](https://skillicons.dev/icons?i=py,cs,c,java,mysql)](https://skillicons.dev)
 
 ## Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,windows,blender)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,windows,blender,unity,unreal engine)](https://skillicons.dev)
 
 
 <!--
