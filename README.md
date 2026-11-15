@@ -2,8 +2,8 @@
 I am a Computer Engineering student interested in Computer Vision, Artificial Intelligence, Graphics Rendering, 3D Modelling.
 
 My experience includes:
-Python, C#, C, Java programming.
-Object detection using YOLOv8, Detectron2, and MMDetection
+- Python, C#, C, Java programming.
+- Object detection using YOLOv8, Detectron2, and MMDetection
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cs,c,java,mysql)](https://skillicons.dev)
